@@ -1,4 +1,4 @@
-# SQLiteFromScartch (Under Development 🚧)
+# SQLiteFromScratch (Under Development 🚧)
 
 Description: This project is an implementation of SQLite from scratch, designed to deepen my understanding of database systems and low-level programming concepts. The goal is to recreate core functionalities of SQLite, including data storage, query parsing, and transaction management, while adhering to clean coding practices and modular design.
 
